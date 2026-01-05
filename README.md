@@ -2,9 +2,11 @@
 Hi! I’m a passionate developer who enjoys building meaningful projects and continuously learning new technologies.<br><br>🔭 I’m currently working on improving my coding skills through hands-on projects<br><br>🤝 I’m open to collaborating on interesting and impactful ideas<br><br>🌱 I’m always learning and exploring new tools & technologies<br><br>💬 Ask me about programming, projects, or anything tech-related<br><br>⚡ Fun fact: I love turning ideas into real, working code
 
 
+
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SeemaVaidya)
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+
 
 
 # 💻 Tech Stack:
