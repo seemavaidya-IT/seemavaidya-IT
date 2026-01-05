@@ -3,9 +3,11 @@ Hi! I’m a passionate developer who enjoys building meaningful projects and con
 
 
 
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SeemaVaidya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seema-vaidya-804726275)
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+
 
 
 
